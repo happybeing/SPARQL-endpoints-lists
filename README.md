@@ -1,4 +1,4 @@
-# SPARQL Endpoints Analysis
+# SPARQL Endpoints Lists and Analysis
 
 This repository contains a collection of SPARQL endpoints which have been tested using a SPARQL endpoint interrogator (part of [Visualisation Lab](https://github.com/theWebalyst/visualisation-lab)).
 
