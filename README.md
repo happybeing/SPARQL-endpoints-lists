@@ -10,4 +10,4 @@ An analysis of the inputs collected on or shortly before 29-April-2020 identifie
 
 These results have been provided for every endpoint tested as a set of spreadsheet files, and as set of text files for easier access to the endpoint URLs. Note that VisLab can also be used to copy the URLs from its table to the clipboard in JavaScript format (after updating the table).
 
-**Details:** SPARQL Endpoints Analysis 29-April-2020
+**Details:** [SPARQL Endpoints Analysis 29-April-2020](https://github.com/theWebalyst/SPARQL-endpoints-lists/tree/master/endpoint-data-for-2020-04-29)
