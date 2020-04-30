@@ -1,90 +1,89 @@
-Endpoint URL,Summary,SPARQL Endpoint,Version,Turtle,XML,CSV,JSON,1.0 ASK[.],1.0 CON[.],1.0 CON[JOIN],1.0 CON[OPT],1.1 ASK[FIL(!IN)],1.1 CON-[.],1.1 SEL[AVG],1.1 SEL[BIND],1.1 SEL[FIL(!EXISTS)],Custom Query
-https://sparql.geo.admin.ch/sparql,G,sparql.geo.admin.ch,1.0 (inferred),yes,no: got Ttl,no: got Ttl,no: got Ttl,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://lindas-data.ch/sparql-ui,X,lindas-data.ch,error 404,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,-
-https://api.aucklandmuseum.com/sparql,G,api.aucklandmuseum.com,1.0 (inferred),error: 400 Bad Request,error: 400 Bad Request,error: 400 Bad Request,yes,error: 400 Bad Request,error: 400 Bad Request,error: 400 Bad Request,error: 400 Bad Request,error: 400 Bad Request,error: 400 Bad Request,error: 400 Bad Request,error: 400 Bad Request,error: 400 Bad Request,-
-https://dydra.com/markw/polyadenylation-sites-in-magnaporthe-oryza/sparql,,dydra.com,1.1 (inferred),...,yes,yes,yes,...,yes,...,yes,error: 502 Bad Gateway,yes,...,...,...,-
-https://idsm.elixir-czech.cz/sparql/endpoint/idsm,G,idsm.elixir-czech.cz,1.0 (inferred),error: 406 406,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://data.gov.cz/sparql,G,data.gov.cz,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://linked.opendata.cz/sparql,X,linked.opendata.cz,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://ruian.linked.opendata.cz/sparql,G,ruian.linked.opendata.cz,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://nkod.opendata.cz/sparql,X,nkod.opendata.cz,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://eagle-i.ctsi.msu.edu/sparqler/sparql,X,eagle-i.ctsi.msu.edu,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://dbmi-icode-01.dbmi.pitt.edu/sparql,G,dbmi-icode-01.dbmi.pitt.edu,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://dbmi-icode-01.dbmi.pitt.edu/dikb/sparql,X,dbmi-icode-01.dbmi.pitt.edu,error 404,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,-
-https://eagle-i.itmat.upenn.edu/sparqler/sparql,G,eagle-i.itmat.upenn.edu,1.0 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://eagle-i.ea.vanderbilt.edu/sparqler/sparql,X,eagle-i.ea.vanderbilt.edu,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://opendata.aragon.es/sparql,G,opendata.aragon.es,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://datos.gob.es/en/sparql,X,datos.gob.es,1.0 (inferred),error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,-
-https://lov.linkeddata.es/dataset/lov/sparql,G,lov.linkeddata.es,1.0 (inferred),no: got XML,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://joinup.ec.europa.eu/sparql,X,joinup.ec.europa.eu,error 404,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,-
-https://semantic.eea.europa.eu/sparql,G,semantic.eea.europa.eu,1.0 (inferred),yes,yes,yes,error: network DNS or CORS,yes,yes,error: network DNS or CORS,yes,yes,yes,yes,yes,yes,-
-https://publications.europa.eu/en/advanced-sparql-query-editor,X,publications.europa.eu,1.0 (inferred),error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: Unexpected response type HTML,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: Unexpected response type HTML,error: Unexpected response type HTML,error: network DNS or CORS,error: network DNS or CORS,error: Unexpected response type HTML,-
-https://www.europeandataportal.eu/sparql,G,www.europeandataportal.eu,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://data.bnf.fr/current/sparql.html,X,data.bnf.fr,1.0 (inferred),error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,-
-https://io.datascience-paris-saclay.fr/sparql,G,io.datascience-paris-saclay.fr,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://3cixty.eurecom.fr/sparql,X,3cixty.eurecom.fr,error 404,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,-
-https://data.idref.fr/endpoint.html,X,data.idref.fr,1.0 (inferred),error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,error: Unexpected response type HTML,-
-https://hub-rnsr.idref.fr/sparql,X,hub-rnsr.idref.fr,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://sparql.lri.fr/sparql,G,sparql.lri.fr,unknown: error: network DNS or CORS,error: network DNS or CORS,yes,error: network DNS or CORS,yes,yes,yes,yes,error: network DNS or CORS,error: network DNS or CORS,error: 400 Bad Request,yes,error: 400 Bad Request,yes,-
-https://www.nakala.fr/sparql,G,www.nakala.fr,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://linkeddata1.calcul.u-psud.fr/sparql,X,linkeddata1.calcul.u-psud.fr,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: 404 File not found,error: 404 File not found,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://opendata1.opendata.u-psud.fr/sparql,G,opendata1.opendata.u-psud.fr,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://id.nlm.nih.gov/mesh/sparql,G,id.nlm.nih.gov,1.1 (inferred),error: Reported text/plain is XML,yes,yes,yes,error: Reported text/plain is XML,error: Unexpected response type text/plain,error: Reported text/plain is XML,error: Unexpected response type text/plain,error: Reported text/plain is XML,error: Unexpected response type text/plain,error: Reported text/plain is XML,error: Reported text/plain is XML,error: Reported text/plain is XML,-
-https://digitale.bncf.firenze.sbn.it/openrdf-workbench/repositories/ns/query,X,digitale.bncf.firenze.sbn.it,error 500,error: 500 Internal Server Error,error: 500 Internal Server Error,error: 500 Internal Server Error,error: 500 Internal Server Error,error: 500 Internal Server Error,error: 500 Internal Server Error,error: 500 Internal Server Error,error: network DNS or CORS,error: network DNS or CORS,error: 500 Internal Server Error,error: 500 Internal Server Error,error: 500 Internal Server Error,error: network DNS or CORS,-
-https://dba-rdf.biosciencedbc.jp/sparql,G,dba-rdf.biosciencedbc.jp,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,yes,yes,error: 500 Internal Server Error,-
-https://ideal-rdf.dbcls.jp/sparql,G,ideal-rdf.dbcls.jp,1.1 (inferred),yes,yes,yes,yes,error: network DNS or CORS,yes,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://jpsearch.go.jp/rdf/sparql,G,jpsearch.go.jp,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://stirdf.jglobal.jst.go.jp/sparql,X,stirdf.jglobal.jst.go.jp,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://openpark.jp/sparql,X,openpark.jp,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://alaska.eagle-i.net/sparqler/sparql,G,alaska.eagle-i.net,1.0 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://cau.eagle-i.net/sparqler/sparql,X,cau.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://ccny-cuny.eagle-i.net/sparqler/sparql,X,ccny-cuny.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://cdrewu.eagle-i.net/sparqler/sparql,X,cdrewu.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://famu.eagle-i.net/sparqler/sparql,X,famu.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://global.eagle-i.net/sparqler/sparql,G,global.eagle-i.net,1.0 (inferred),error: network DNS or CORS,error: network DNS or CORS,error: 406 Not Acceptable,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,yes,yes,yes,yes,yes,-
-https://harvard.eagle-i.net/sparqler/sparql,G,harvard.eagle-i.net,1.0 (inferred),error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,error: network DNS or CORS,yes,yes,yes,yes,yes,yes,-
-https://immunology.harvard.eagle-i.net/sparqler/sparql,X,immunology.harvard.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://hawaii.eagle-i.net/sparqler/sparql,G,hawaii.eagle-i.net,1.0 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://howard.eagle-i.net/sparqler/sparql,X,howard.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://hunter-cuny.eagle-i.net/sparqler/sparql,X,hunter-cuny.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://jsu.eagle-i.net/sparqler/sparql,G,jsu.eagle-i.net,1.0 (inferred),error: 406 Not Acceptable,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,yes,yes,yes,-
-https://meharry.eagle-i.net/sparqler/sparql,X,meharry.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://montana.eagle-i.net/sparqler/sparql,G,montana.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,yes,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://msm.eagle-i.net/sparqler/sparql,G,msm.eagle-i.net,1.0 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,error: network DNS or CORS,yes,yes,yes,yes,yes,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://ohsu.eagle-i.net/sparqler/sparql,G,ohsu.eagle-i.net,1.0 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,yes,yes,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,-
-https://psm.eagle-i.net/sparqler/sparql,G,psm.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,yes,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,yes,error: network DNS or CORS,yes,error: network DNS or CORS,yes,yes,-
-https://shared.eagle-i.net/sparqler/sparql,X,shared.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://tsu.eagle-i.net/sparqler/sparql,G,tsu.eagle-i.net,1.0 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://tuskegee.eagle-i.net/sparqler/sparql,G,tuskegee.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,yes,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://uccaribe.eagle-i.net/sparqler/sparql,G,uccaribe.eagle-i.net,1.0 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://upr.eagle-i.net/sparqler/sparql,G,upr.eagle-i.net,1.0 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://utep.eagle-i.net/sparqler/sparql,G,utep.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,-
-https://utsa.eagle-i.net/sparqler/sparql,G,utsa.eagle-i.net,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,yes,yes,yes,yes,error: network DNS or CORS,-
-https://xula.eagle-i.net/sparqler/sparql,G,xula.eagle-i.net,1.0 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,error: 406 Not Acceptable,yes,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,yes,yes,-
-https://www.orpha.net/sparql,G,www.orpha.net,1.1 (inferred),yes,error: network DNS or CORS,yes,yes,error: network DNS or CORS,error: network DNS or CORS,yes,yes,yes,yes,yes,yes,yes,-
-https://data.pdok.nl/sparql,G,data.pdok.nl,1.0 (inferred),error: 406,yes,error: 406,yes,yes,yes,error: 504 Gateway Time-out,yes,yes,yes,error: 504 Gateway Time-out,yes,yes,-
-https://hdt.lod.labs.vu.nl/?g=lod-a-lot,X,hdt.lod.labs.vu.nl,error 502,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,error: 502 Bad Gateway,-
-https://biogw-db.nt.ntnu.no:4333/sparql,X,biogw-db.nt.ntnu.no:4333,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://data.epo.org/linked-data/sparql,X,data.epo.org,error 404,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: 404 Not Found,error: network DNS or CORS,error: 404 Not Found,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: 404 Not Found,-
-https://www.foodie-cloud.org/sparql,G,www.foodie-cloud.org,1.1 (inferred),yes,yes,error: network DNS or CORS,error: network DNS or CORS,yes,yes,error: network DNS or CORS,yes,yes,yes,yes,yes,yes,-
-https://eagle-i.fredhutch.org/sparqler/sparql,X,eagle-i.fredhutch.org,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://data.gesis.org/claimskg/sparql,G,data.gesis.org,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://landportal.org/sparql,G,landportal.org,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://rdf.metanetx.org/sparql,G,rdf.metanetx.org,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://api.nextprot.org/sparql,G,api.nextprot.org,1.0 (inferred),yes,no: got Ttl,no: got Ttl,no: got Ttl,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://sparql.nextprot.org,G,sparql.nextprot.org,1.0 (inferred),no: got XML,yes,no: got XML,no: got XML,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://sparql.omabrowser.org/sparql,G,sparql.omabrowser.org,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://bmrbpub.pdbj.org/search/rdf,G,bmrbpub.pdbj.org,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://sparql.rhea-db.org/sparql,G,sparql.rhea-db.org,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,error: 500 SPARQL Request Failed,yes,yes,yes,-
-https://sparql.uniprot.org/sparql,G,sparql.uniprot.org,1.0 (inferred),error: 400,yes,yes,yes,yes,yes,error: network DNS or CORS,yes,yes,yes,no CSV,yes,yes,-
-https://w3id.org/scholarlydata/sparql,X,w3id.org,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://query.wikidata.org/sparql,G,query.wikidata.org,1.1 (inferred),no: got XML,yes,no: got XML,yes,yes,yes,error: 500 Internal Server Error,error: 500 Internal Server Error,yes,yes,error: 500 Internal Server Error,yes,yes,-
-https://isidore.science/sparql,G,isidore.science,1.1 (inferred),yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://www.ebi.ac.uk/rdf/services/sparql,G,www.ebi.ac.uk,1.1 (inferred),no,yes,yes,yes,no,no,no,no,no,no,no,no,no,-
-https://www.ebi.ac.uk/rdf/services/biomodels/sparql,X,www.ebi.ac.uk,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://www.ebi.ac.uk/rdf/services/biosamples/sparql,X,www.ebi.ac.uk,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://www.ebi.ac.uk/rdf/services/chembl/sparql,X,www.ebi.ac.uk,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://www.ebi.ac.uk/rdf/services/reactome/sparql,X,www.ebi.ac.uk,unknown: error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,error: network DNS or CORS,-
-https://data.ox.ac.uk/sparql,G,data.ox.ac.uk,1.0 (inferred),error: 406 Not Acceptable,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://api.parliament.uk/sparql,G,api.parliament.uk,1.1 (inferred),error: 406 Not Acceptable,yes,error: 406 Not Acceptable,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
-https://sparql.crssnky.xyz/spql/imas/query,G,sparql.crssnky.xyz,error 404,no: got XML,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,-
+https://sparql.geo.admin.ch/sparql
+https://lindas-data.ch/sparql-ui
+https://api.aucklandmuseum.com/sparql
+https://dydra.com/markw/polyadenylation-sites-in-magnaporthe-oryza/sparql
+https://idsm.elixir-czech.cz/sparql/endpoint/idsm
+https://data.gov.cz/sparql
+https://linked.opendata.cz/sparql
+https://ruian.linked.opendata.cz/sparql
+https://nkod.opendata.cz/sparql
+https://eagle-i.ctsi.msu.edu/sparqler/sparql
+https://dbmi-icode-01.dbmi.pitt.edu/sparql
+https://dbmi-icode-01.dbmi.pitt.edu/dikb/sparql
+https://eagle-i.itmat.upenn.edu/sparqler/sparql
+https://eagle-i.ea.vanderbilt.edu/sparqler/sparql
+https://opendata.aragon.es/sparql
+https://datos.gob.es/en/sparql
+https://lov.linkeddata.es/dataset/lov/sparql
+https://joinup.ec.europa.eu/sparql
+https://semantic.eea.europa.eu/sparql
+https://publications.europa.eu/en/advanced-sparql-query-editor
+https://www.europeandataportal.eu/sparql
+https://data.bnf.fr/current/sparql.html
+https://io.datascience-paris-saclay.fr/sparql
+https://3cixty.eurecom.fr/sparql
+https://data.idref.fr/endpoint.html
+https://hub-rnsr.idref.fr/sparql
+https://sparql.lri.fr/sparql
+https://www.nakala.fr/sparql
+https://linkeddata1.calcul.u-psud.fr/sparql
+https://opendata1.opendata.u-psud.fr/sparql
+https://id.nlm.nih.gov/mesh/sparql
+https://digitale.bncf.firenze.sbn.it/openrdf-workbench/repositories/ns/query
+https://dba-rdf.biosciencedbc.jp/sparql
+https://ideal-rdf.dbcls.jp/sparql
+https://jpsearch.go.jp/rdf/sparql
+https://stirdf.jglobal.jst.go.jp/sparql
+https://openpark.jp/sparql
+https://alaska.eagle-i.net/sparqler/sparql
+https://cau.eagle-i.net/sparqler/sparql
+https://ccny-cuny.eagle-i.net/sparqler/sparql
+https://cdrewu.eagle-i.net/sparqler/sparql
+https://famu.eagle-i.net/sparqler/sparql
+https://global.eagle-i.net/sparqler/sparql
+https://harvard.eagle-i.net/sparqler/sparql
+https://immunology.harvard.eagle-i.net/sparqler/sparql
+https://hawaii.eagle-i.net/sparqler/sparql
+https://howard.eagle-i.net/sparqler/sparql
+https://hunter-cuny.eagle-i.net/sparqler/sparql
+https://jsu.eagle-i.net/sparqler/sparql
+https://meharry.eagle-i.net/sparqler/sparql
+https://montana.eagle-i.net/sparqler/sparql
+https://msm.eagle-i.net/sparqler/sparql
+https://ohsu.eagle-i.net/sparqler/sparql
+https://psm.eagle-i.net/sparqler/sparql
+https://shared.eagle-i.net/sparqler/sparql
+https://tsu.eagle-i.net/sparqler/sparql
+https://tuskegee.eagle-i.net/sparqler/sparql
+https://uccaribe.eagle-i.net/sparqler/sparql
+https://upr.eagle-i.net/sparqler/sparql
+https://utep.eagle-i.net/sparqler/sparql
+https://utsa.eagle-i.net/sparqler/sparql
+https://xula.eagle-i.net/sparqler/sparql
+https://www.orpha.net/sparql
+https://data.pdok.nl/sparql
+https://hdt.lod.labs.vu.nl/?g=lod-a-lot
+https://biogw-db.nt.ntnu.no:4333/sparql
+https://data.epo.org/linked-data/sparql
+https://www.foodie-cloud.org/sparql
+https://eagle-i.fredhutch.org/sparqler/sparql
+https://data.gesis.org/claimskg/sparql
+https://landportal.org/sparql
+https://rdf.metanetx.org/sparql
+https://api.nextprot.org/sparql
+https://sparql.nextprot.org
+https://sparql.omabrowser.org/sparql
+https://bmrbpub.pdbj.org/search/rdf
+https://sparql.rhea-db.org/sparql
+https://sparql.uniprot.org/sparql
+https://w3id.org/scholarlydata/sparql
+https://query.wikidata.org/sparql
+https://isidore.science/sparql
+https://www.ebi.ac.uk/rdf/services/sparql
+https://www.ebi.ac.uk/rdf/services/biomodels/sparql
+https://www.ebi.ac.uk/rdf/services/biosamples/sparql
+https://www.ebi.ac.uk/rdf/services/chembl/sparql
+https://www.ebi.ac.uk/rdf/services/reactome/sparql
+https://data.ox.ac.uk/sparql
+https://api.parliament.uk/sparql
+https://sparql.crssnky.xyz/spql/imas/query
