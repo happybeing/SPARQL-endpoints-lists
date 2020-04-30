@@ -4,6 +4,12 @@ This repository contains a collection of SPARQL endpoints which have been tested
 
 The sources used to obtain the initial lists of endpoints are provided along with all the inputs, some intermediate files and a set of output files in spreadsheet and text format.
 
+## Analysis 30-April-2020
+
+An analysis including 782 URLs (an extra 11 discovered through web searches). 255 appear to be functioning SPARQL endpoints or the 782 tested.
+
+**Details:** [SPARQL Endpoints Analysis 30-April-2020](https://github.com/theWebalyst/SPARQL-endpoints-lists/tree/master/endpoint-data-for-2020-04-30)
+
 ## Analysis 29-April-2020
 
 An analysis of the inputs collected on or shortly before 29-April-2020 identified 773 unique SPARQL endpoint URLs from an initial set of over 2,200.
