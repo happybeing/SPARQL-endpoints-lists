@@ -212,4 +212,4 @@ http://www.kanzaki.com/works/2011/stat
 http://id.ndl.go.jp/auth/ndla
 http://id.ndl.go.jp/auth/ndlsh
 http://vocab.nerc.ac.uk/sparql
-http://sparql.openmobilenetwork.org
+http://www.openmobilenetwork.org:8890/sparql
