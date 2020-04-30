@@ -39,3 +39,4 @@ https://www.ebi.ac.uk/rdf/services/sparql
 https://api.parliament.uk/sparql
 https://dydra.com/markw/polyadenylation-sites-in-magnaporthe-oryza/sparql
 https://id.nlm.nih.gov/mesh/sparql
+https://lov.okfn.org/endpoint/lov
