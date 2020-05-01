@@ -595,7 +595,6 @@ http://eris.okfn.org/sparql
 http://opendatacommunities.org/sparql
 http://en.openei.org/sparql
 http://www.opmw.org/sparql
-http://sparql.orthodb.org/sparql
 http://ld.panlex.org/sparql
 http://rdf.pathwaycommons.org/sparql
 http://sparql.proconsortium.org/virtuoso/sparql

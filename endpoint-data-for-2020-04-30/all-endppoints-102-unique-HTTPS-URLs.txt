@@ -99,3 +99,4 @@ https://data.ox.ac.uk/sparql/
 https://collection.britishmuseum.org/sparql
 https://collection.britishmuseum.org/resource/sparql
 https://lov.okfn.org/endpoint/lov
+https://sparql.orthodb.org/sparql
